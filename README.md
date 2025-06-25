@@ -102,14 +102,32 @@ prueba-nodejs-ts/
 
 ## 📚 Documentación
 
-Puedes encontrar más información sobre los frameworks usados en los siguientes enlaces:
+📚 Documentación del framework
+NestJS (Back-end)
+NestJS es un framework progresivo para construir aplicaciones Node.js escalables y eficientes. Está basado en TypeScript y utiliza conceptos de programación orientada a objetos, funcional y reactiva.
 
-- [NestJS](https://docs.nestjs.com/)
-- [React](https://reactjs.org/docs/getting-started.html)
-- [Vite](https://vitejs.dev/guide/)
-- [MongoDB](https://docs.mongodb.com/)
-- [Tailwind CSS](https://tailwindcss.com/docs/installation) (si aplica)
+Documentación oficial: https://docs.nestjs.com/
 
+Arquitectura modular que facilita la organización del código.
+
+Uso de decorators para definir controladores, servicios y middleware.
+
+Soporte integrado para validación, autenticación, seguridad y testing.
+
+Compatible con múltiples bases de datos, en este proyecto usamos MongoDB con Mongoose.
+
+React con Vite (Front-end)
+React es una biblioteca para construir interfaces de usuario con componentes reutilizables. Vite es una herramienta de build rápida y ligera que acelera el desarrollo front-end con soporte nativo para ES Modules.
+
+Documentación oficial React: https://reactjs.org/docs/getting-started.html
+
+Documentación oficial Vite: https://vitejs.dev/guide/
+
+Desarrollo con JSX y hooks para manejo de estado y efectos.
+
+Vite proporciona un servidor de desarrollo ultra rápido y un sistema optimizado de build.
+
+Integración con TypeScript para mejor experiencia de desarrollo.
 ---
 
 ## 🚀 Cómo contribuir
