@@ -1,4 +1,4 @@
-# SpootyApp - Sistema de Registro de Alumnos
+Sistema de Registro de Alumnos
 
 Este proyecto contiene:
 
